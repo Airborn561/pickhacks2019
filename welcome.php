@@ -111,13 +111,13 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
                 <div class="container">
                     <div class="row">
                         <div class="col">
-                            <a href="welcome.php">Post Run</a>
+                            <a href="update.php">Post Run</a>
                         </div>
                     </div>
                     <br>
                     <div class="row">
                         <div class="col">
-                            <a href="welcome.php">Change Goal</a>
+                            <a href="changegoal.php">Change Goal</a>
                         </div>
                     </div>
                     <hr>
